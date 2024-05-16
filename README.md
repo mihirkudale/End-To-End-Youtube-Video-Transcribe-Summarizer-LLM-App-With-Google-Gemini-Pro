@@ -2,23 +2,20 @@
 
 This repository provides an application that uses Google Gemini Pro and Streamlit to transcribe and summarize YouTube videos.
 
-Installation
-Clone the repository:
-
-bash
-Copy code
+## Installation
+1. Clone the repository:
+```
 git clone https://github.com/mihirkudale/End-To-End-Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro.git
 cd End-To-End-Youtube-Video-Transcribe-Summarizer-LLM-App-With-Google-Gemini-Pro
-Install dependencies
+```
 
-bash
-Copy code
+2. Install dependencies:
+```
 pip install -r requirements.txt
-Configure Google Gemini Pro API.
+```
+3. Configure Google Gemini Pro API.
 
-Run the app:
-
-bash
-Copy code
+4. Run the app:
+```
 streamlit run app.py
-
+```
